@@ -32,5 +32,9 @@ If you find this repository useful for your work, please consider citing:
 
 ### Acknowledgement
 We would like to thank the medical student Giada Gaveglio for her dedication and assistance in developing the pipeline figure. Thank you!
+It is also necessary to thank OpenAI (https://openai.com/) and its AI language, ChatGPT (version 3.5), which facilitated the development of various parts of the code. 
 
-Thank you to all for your interest in our research!
+Last but not least, thank you to all for your interest in our research!
+                                                                                                                            
+                                                                                                                            
+                                                                                                                            Stefano Magnati, Eugenio Alladio and Professor Enrico Bracco
