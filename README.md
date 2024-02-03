@@ -31,6 +31,6 @@ If you find this repository useful for your work, please consider citing:
 [Insert citation details here]
 
 ### Acknowledgement
-We would like to thank the medical student Giada Gaveglio for her dedication and assistance in developing the pipeline figure, which you can find in the main file 1. Thank you!
+We would like to thank the medical student Giada Gaveglio for her dedication and assistance in developing the pipeline figure. Thank you!
 
 Thank you to all for your interest in our research!
