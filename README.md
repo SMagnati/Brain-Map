@@ -1,12 +1,12 @@
 # Brain-Map
-A survey on the expression of the UPS components Hect-, RBR-E3 Ub-ligase, E2 Ub-conjugating, and E1 Ub-activating enzymes during the human brain development (link)
+_A survey on the expression of the UPS components Hect-, RBR-E3 Ub-ligase, E2 Ub-conjugating, and E1 Ub-activating enzymes during the human brain development_ (link)
 
 ### Introduction
 Welcome to our repository! 
 For the first time, we embarked on a journey to map the human brain gene expression of specific proteins called 'ubiquitins' during development using data analysis and machine learning techniques. This endeavor aims to shed light on the intricate mechanisms underlying brain development and the role of ubiquitins in this process. Through comprehensive analysis and advanced methodologies, we strive to unravel the complexities of gene expression dynamics in the human brain.
 
 ### Data Collection
-We utilized a publicly available dataset from open-access repositories: Brain Span (https://www.brainspan.org/). Brain Span provides comprehensive gene expression datasets generated using mRNA sequencing technology. The dataset comprises 504 observations and features such as age group, brain regions, gender, and ethnicity of donors.
+We utilized a publicly available dataset from open-access repositories: _Brain Span_ (https://www.brainspan.org/). Brain Span provides comprehensive gene expression datasets generated using mRNA sequencing technology. The dataset comprises 504 observations and features such as age group, brain regions, gender, and ethnicity of donors.
 
 ### Feature Engineering
 The Brain Span dataset includes expression data for 89 genes, categorized into nine representative age groups: early prenatal, early mid-prenatal, late-mid prenatal, late prenatal, infancy, early childhood, late childhood, adolescence, and adulthood. These genes consist of nine E1, thirty-seven E2, fourteen E3-RBR, and twenty-nine E3-HECT ubiquitin components.
@@ -32,9 +32,8 @@ If you find this repository useful for your work, please consider citing:
 
 ### Acknowledgement
 We would like to thank the medical student Giada Gaveglio for her dedication and assistance in developing the pipeline figure. Thank you!
-It is also necessary to thank OpenAI (https://openai.com/) and its AI language, ChatGPT (version 3.5), which facilitated the development of various parts of the code. 
+It is also necessary to thank Brain Span for this great data collection and OpenAI (https://openai.com/) and its AI language, ChatGPT (version 3.5), which facilitated the development of various parts of the code. 
 
 Last but not least, thank you to all for your interest in our research!
                                                                                                                             
-                                                                                                                            
-                                                                                                                            Stefano Magnati, Eugenio Alladio and Professor Enrico Bracco
+__Stefano Magnati, Eugenio Alladio and Professor Enrico Bracco__
