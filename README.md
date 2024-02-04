@@ -19,9 +19,10 @@ All analyses and implementation were conducted using Python (www.python.org). We
 The 'Magnati_functions.py' branch file contains all the codes and packages used in the main files described below.
 
 ### Main files
-    1. EDA_Stats_and_Cluster_Analysis.ipynb 📊📚
-    2. Volcano_Plot.ipynb 🌋
-    3. Machine_Learning_Classification.ipynb 💻
+    0.Import_Data 📨
+    1.EDA_Stats_and_Cluster_Analysis.ipynb 📊📚
+    2.Volcano_Plot.ipynb 🌋
+    3.Machine_Learning_Classification.ipynb 💻
 Within each main file, you will find code cells ready for use. We have ensured that the code is easy to understand and highly flexible. It is recommended to execute one code cell at a time. If a cell does not finish its run, it could be due to excessive computational calculation.
 
 
