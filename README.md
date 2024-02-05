@@ -6,7 +6,7 @@ Welcome to our repository!
 For the first time 🥇, we embarked on a journey to map the human brain gene expression 🧬 of specific proteins called 'ubiquitins' during development using data analysis and machine learning techniques. This endeavor aims to shed light on the intricate mechanisms underlying brain development and the role of ubiquitins in this process. Through comprehensive analysis and advanced methodologies, we strive to unravel the complexities of gene expression dynamics in the human brain. 
 
 ### Data Collection 
-We utilized a publicly available dataset from open-access repositories: _Brain Span_ (https://www.brainspan.org/). Brain Span provides comprehensive gene expression datasets generated using mRNA sequencing technology. The dataset comprises 504 observations and features such as age group, brain regions, gender, and ethnicity of donors. 
+We utilized a publicly available dataset from open-access repositories: _Brain Span_ (https://www.brainspan.org/). Brain Span provides comprehensive gene expression datasets generated using mRNA sequencing technology. The dataset comprises 504 observations and features such as age group, brain regions, gender, and ethnicity of donors. The values are in log2 RPKM (reads per kilobase per million).
 
 ### Feature Engineering
 The Brain Span dataset includes expression data for 89 genes, categorized into nine representative age groups: early prenatal, early mid-prenatal, late-mid prenatal, late prenatal, infancy, early childhood, late childhood, adolescence, and adulthood. These genes consist of nine E1, thirty-seven E2, fourteen E3-RBR, and twenty-nine E3-HECT ubiquitin components.
