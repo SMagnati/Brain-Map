@@ -525,9 +525,9 @@ def elbow_method(scaled_features):
     # Plot dell'indice di varianza totale
     plt.figure(figsize=(6,4))
     plt.plot(k_values, total_variance, 'bx-')
-    plt.xlabel('Numero di Cluster (k)')
-    plt.ylabel('Varianza totale')
-    plt.title('Metodo Elbow')
+    plt.xlabel('Number of clusters (k)')
+    plt.ylabel('Total Variance')
+    plt.title('Elbow Method')
     plt.show()
     
     i=2
