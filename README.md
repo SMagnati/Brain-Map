@@ -16,7 +16,7 @@ The 'ethnicity' and 'gender' variables were manually inserted following the dono
 All analyses and implementation were conducted using Python (www.python.org). We recommend using Jupyter notebook for running the codes.
 
 ### Functions and libraries
-The 'Magnati_functions.py' branch file contains all the codes and packages used in the main files described below.
+The 'Magnati_functions.py' branch file contains all the functions codes and packages used in the main files described below.
 
 ### Main files
     0.Import_Data 📨
