@@ -1,5 +1,5 @@
 # Brain-Map 🧠🗺
-_A survey on the expression of the UPS components Hect-, RBR-E3 Ub-ligase, E2 Ub-conjugating, and E1 Ub-activating enzymes during the human brain development_ (link)
+_A survey on the expression of the UPS components Hect-, RBR-E3 Ub-ligase, E2 Ub-conjugating, and E1 Ub-activating enzymes during the human brain development_ (https://www.mdpi.com/1422-0067/25/4/2361)
 
 ### Introduction
 Welcome to our repository! 
@@ -29,7 +29,7 @@ Within each main file, you will find code cells ready for use. We have ensured t
 ### Citation 📝
 If you find this repository useful for your work, please consider citing:
 
-[Insert citation details here]
+Magnati S, Alladio E, Bracco E. A Survey on the Expression of the Ubiquitin Proteasome System Components HECT- and RBR-E3 Ubiquitin Ligases and E2 Ubiquitin-Conjugating and E1 Ubiquitin-Activating Enzymes during Human Brain Development. International Journal of Molecular Sciences. 2024; 25(4):2361. https://doi.org/10.3390/ijms25042361
 
 ### Acknowledgement 🙏🏻
 We would like to thank the medical student Giada Gaveglio 👩🏻‍⚕️ for her dedication and assistance in developing the pipeline figure. Thank you!
